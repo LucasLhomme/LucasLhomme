@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋, I'm Lucas
+- 🔭 I’m currently studying at Epitech Lille.
+- 🌱 I’m currently in my first year, learning C, Python on Linux.
+- 👨🏻‍💻 I’m looking for a stage for 6 mouth.
 
-<!--
-**LucasLhomme/LucasLhomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 How to Reach Me  
+📧 Mail: lucas.lhomme@epitech.eu  
+💼 LinkedIn: [Lucas Lhomme](https://www.linkedin.com/in/lucas-lhomme/)  
+🐙 GitHub: [LucasLhomme](https://github.com/LucasLhomme)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Learning & Goals  
+- ☑️ Mastering memory management in C  
+- ☑️ Learning advanced shell scripting  
+- ⬜ Exploring Rust for system programming    
