@@ -16,5 +16,4 @@
 
 ### 🚀 Learning & Goals  
 - ☑️ Mastering memory management in C  
-- ☑️ Learning advanced shell scripting  
-- ⬜ Exploring Rust for system programming    
+- ☑️ Learning advanced shell scripting 
