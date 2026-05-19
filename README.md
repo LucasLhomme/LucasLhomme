@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Lucas
 - 🔭 I’m currently studying at Epitech Lille.
 - 🌱 I’m currently in my second year, learning C, Python on Linux.
-- 👨🏻‍💻 I'm looking for a 6-month internship.
 
 ### 📬 How to Reach Me  
 📧 Mail: lucas.lhomme@epitech.eu  
