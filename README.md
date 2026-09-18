@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lhomme/)
 [![GitHub](https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasLhomme)
+[![Website](https://img.shields.io/badge/Website-18181b?style=flat-square)](https://crabecorp.fr)
 [![Email](https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.lhomme@epitech.eu)
 [![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-18181b?style=flat-square)](mailto:lucas.lhomme@epitech.eu)
 
@@ -134,6 +135,7 @@
 
 I am actively **open to new opportunities** (internships, apprenticeships, work-study programs, or junior roles). Feel free to reach out directly to discuss projects or job opportunities:
 
+- **Website:** [crabecorp.fr](https://crabecorp.fr)
 - **Email:** [lucas.lhomme@epitech.eu](mailto:lucas.lhomme@epitech.eu)
 - **LinkedIn:** [linkedin.com/in/lucas-lhomme](https://www.linkedin.com/in/lucas-lhomme/)
 - **GitHub:** [github.com/LucasLhomme](https://github.com/LucasLhomme)
