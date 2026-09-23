@@ -75,17 +75,17 @@
 
 <div align="center">
   <a href="https://github.com/LucasLhomme/CrabeLoader">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=CrabeLoader&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=CrabeLoader&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
   </a>
   <a href="https://github.com/LucasLhomme/raytracer">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=raytracer&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=raytracer&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
   </a>
   <br />
   <a href="https://github.com/LucasLhomme/arcade">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=arcade&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=arcade&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
   </a>
   <a href="https://github.com/LucasLhomme/zappy">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=zappy&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=zappy&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
   </a>
 </div>
 
@@ -119,14 +119,14 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LucasLhomme&show_icons=true&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6" height="165" alt="Lucas Lhomme GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasLhomme&layout=compact&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&border_color=27272a&border_radius=6" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LucasLhomme&show_icons=true&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" height="165" alt="Lucas Lhomme GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasLhomme&layout=compact&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&border_color=27272a&border_radius=6&v=1" height="165" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucasLhomme&theme=dark&background=0c0d0e&border=27272a&stroke=27272a&ring=e4e4e7&fire=e4e4e7&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=71717a&border_radius=6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LucasLhomme&theme=dark&background=0c0d0e&border=27272a&stroke=27272a&ring=e4e4e7&fire=e4e4e7&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=71717a&border_radius=6&v=1" alt="GitHub Streak" />
 </div>
 
 ---
