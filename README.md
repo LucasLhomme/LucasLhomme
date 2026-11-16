@@ -20,12 +20,12 @@
 
 ## About Me
 
-- 🎓 Software engineering student at **Epitech Lille** (France).
+- 🎓 Software Engineering Student at **Epitech Lille** (France) · Currently **3rd Year (Tek3)** (Promo 2029 / 2024–2029 cursus).
 - ☁️ **DevOps & Infrastructure**: Passionate about self-hosting, homelabs, and automation. Managing a hybrid multi-node cloud with WireGuard/Tailscale mesh, full-stack Prometheus & Grafana Loki observability, and containerized microservices.
 - ⚙️ **Systems & Low-Level**: Deep focus on Modern C++ (C++20, RAII), Unix systems architecture, multithreading, and memory safety.
 - 🚀 **Currently Building**:
   - **Zeus 2.0** — Self-hosted PaaS and CI/CD platform orchestrating headless Jenkins, strict PROD/DEV isolation (`+10000`), and GitHub security guardrails.
-  - **CrabeLoader** — Open-source modloader for Disney Infinity 3.0 PC (runtime hooking, memory patching, dynamic DLL injection).
+  - **DIM (Disney Infinity Modding)** & **CrabeLoader** — Open-source modloader, reverse-engineering framework, and modding suite for Disney Infinity 3.0 PC (runtime hooking, memory patching, dynamic DLL injection).
 - 💼 **Open to Opportunities**: Actively looking for internships, apprenticeships, and engineering roles in **DevOps, Cloud Infrastructure, and Systems Programming**.
 - 💬 Ask me about **Docker, Linux, C++, Homelabs, CI/CD, or Reverse Engineering**.
 
@@ -104,7 +104,15 @@
 
 ### Academic Projects (Epitech)
 
-- [Epitech-Projects](https://github.com/LucasLhomme/Epitech-Projects) — Curated umbrella repository cataloging all Tek1, Tek2, and Tek3 curriculum projects with detailed technical documentation.
+> Centralized catalog and technical documentation available on [Epitech-Projects](https://github.com/LucasLhomme/Epitech-Projects).
+
+#### 🥉 Tek3 (3rd Year · 2026 – 2027) — Advanced AI, Cloud Systems & DevOps
+- [mytorch](https://github.com/LucasLhomme/mytorch) — Modular Deep Learning tensor library & neural network built from scratch in Python (NumPy only).
+- [sensai](https://github.com/LucasLhomme/sensai) — Artificial intelligence game heuristics & adversarial search engine in Python.
+- [bernstein](https://github.com/LucasLhomme/bernstein) — Cloud infrastructure deployment & container orchestration with Docker & Kubernetes.
+- [dashboard](https://github.com/LucasLhomme/dashboard) — Full-stack web application integrating real-time widgets & OAuth2 services.
+
+#### 🥈 Tek2 (2nd Year · 2025 – 2026) — Modern C++20, Concurrency & Infrastructure
 - [raytracer](https://github.com/LucasLhomme/raytracer) — 3D ray tracing engine in Modern C++20 with dynamic shared library plugins (`.so`), Phong illumination, and reflections.
 - [arcade](https://github.com/LucasLhomme/arcade) — Modular gaming platform in C++20 with hot-swappable graphics and game libraries at runtime.
 - [zappy](https://github.com/LucasLhomme/zappy) — Network multiplayer simulation (C++ multithreaded TCP server, autonomous Python AI, SFML/Raylib client).
@@ -114,7 +122,14 @@
 - [codename](https://github.com/LucasLhomme/codename) — Research framework on LLM prompt injection and defensive security mechanisms.
 - [octopus](https://github.com/LucasLhomme/octopus) — Multi-tier infrastructure deployment automated with Ansible across 5 virtual machines.
 - [mymarvin](https://github.com/LucasLhomme/mymarvin) — CI/CD automation with Jenkins, Job DSL, and containerized Docker runners.
-- [42sh](https://github.com/LucasLhomme/42sh) & [panoramix](https://github.com/LucasLhomme/panoramix) — POSIX Unix shell with AST parser & concurrent thread synchronization in C.
+- [panoramix](https://github.com/LucasLhomme/panoramix) — Concurrent synchronization with POSIX threads, semaphores, and mutexes in C.
+
+#### 🥇 Tek1 (1st Year · 2024 – 2025) — C Fundamentals, Unix System Programming & DevOps
+- [42sh](https://github.com/LucasLhomme/42sh) — Complete POSIX Unix shell with AST parser, pipe multiplexing, and line editing in C.
+- [corewar](https://github.com/LucasLhomme/corewar) & [robotfactory](https://github.com/LucasLhomme/robotfactory) — Virtual machine simulation arena & two-pass bytecode assembler.
+- [amazed](https://github.com/LucasLhomme/amazed) — Graph network pathfinding & max flow algorithm in C.
+- [settingup](https://github.com/LucasLhomme/settingup) — Linear-time 2D dynamic programming algorithm finding maximal obstacle-free squares.
+- [Secured](https://github.com/LucasLhomme/Secured) — High-performance hash table library with chained collision resolution.
 
 ---
 
