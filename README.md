@@ -74,18 +74,18 @@
 ## Featured Repositories
 
 <div align="center">
+  <a href="https://github.com/LucasLhomme/DIM">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=DIM&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
+  </a>
   <a href="https://github.com/LucasLhomme/CrabeLoader">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=CrabeLoader&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
   </a>
+  <br />
+  <a href="https://github.com/LucasLhomme/Epitech-Projects">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=Epitech-Projects&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
+  </a>
   <a href="https://github.com/LucasLhomme/raytracer">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=raytracer&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
-  </a>
-  <br />
-  <a href="https://github.com/LucasLhomme/arcade">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=arcade&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
-  </a>
-  <a href="https://github.com/LucasLhomme/zappy">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LucasLhomme&repo=zappy&bg_color=0c0d0e&title_color=f4f4f5&text_color=a1a1aa&icon_color=e4e4e7&border_color=27272a&border_radius=6&v=1" />
   </a>
 </div>
 
@@ -97,12 +97,14 @@
 
 - **Zeus 2.0** — Private Cloud PaaS & CI/CD platform. FastAPI orchestrator acting as single source of truth for identity and permissions, controlling a locked-down Jenkins instance (JCasC / Job DSL). Strict PROD/DEV port isolation (`+10000`), GitHub mutating API guardrails, and 155+ Postman assertions.
 - **Crabe Homelab & Jarvis** — Multi-node hybrid infrastructure (VPS + Raspberry Pi 5 + Linux/Windows) meshed via Tailscale WireGuard. Full-stack observability (Prometheus, cAdvisor, Promtail, Grafana Loki) and Jarvis distributed voice AI daemon (FastAPI, whisper.cpp, Piper, MQTT).
+- [DIM (Disney Infinity Modding)](https://github.com/LucasLhomme/DIM) — Umbrella repository hosting public Disney Infinity modding tools, runtime loaders, split-screen patches, and complete bundles.
 - [CrabeLoader](https://github.com/LucasLhomme/CrabeLoader) — Open-source modloader for Disney Infinity 3.0 PC (C++, Windows API, memory hooking, DLL injection).
 - [DisneyInfinity-SplitScreenMods](https://github.com/LucasLhomme/DisneyInfinity-SplitScreenMods) — Two-player split-screen multiplayer mod altering viewport projection (Lua).
 - [Crabe-Genshin-Dialogue-Skipper](https://github.com/LucasLhomme/Crabe-Genshin-Dialogue-Skipper) — Desktop automation tool for input simulation in Python.
 
 ### Academic Projects (Epitech)
 
+- [Epitech-Projects](https://github.com/LucasLhomme/Epitech-Projects) — Curated umbrella repository cataloging all Tek1, Tek2, and Tek3 curriculum projects with detailed technical documentation.
 - [raytracer](https://github.com/LucasLhomme/raytracer) — 3D ray tracing engine in Modern C++20 with dynamic shared library plugins (`.so`), Phong illumination, and reflections.
 - [arcade](https://github.com/LucasLhomme/arcade) — Modular gaming platform in C++20 with hot-swappable graphics and game libraries at runtime.
 - [zappy](https://github.com/LucasLhomme/zappy) — Network multiplayer simulation (C++ multithreaded TCP server, autonomous Python AI, SFML/Raylib client).
